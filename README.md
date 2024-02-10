@@ -31,10 +31,17 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - Git
 - Qt
 - Tkinter
+- Design patterns: MVC
   
 ### Traitement de données
 - Spark
 - Azure
+
+### ETL & BI
+- Talend
+- Cubes OLAP/ MOLAP/ ROLAP
+- Schémas clés : schéma en étoile , schéma en constellation, schéma en flocon
+- 
 
 ### Analyse de fichiers logs
 - ELK stack
@@ -52,7 +59,11 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - Deep Learning
 
 ### Traitement d'images
-- Utilisation du microscope électronique à transmission
+- Algorithmique du traitement d'images
+- Bibliothéques Python de traitement d'images : OpenCV, Pillow, scikit-image
+- Usage des modéles de Keras pour l'analyse et la classification des images en transfer learning : VGG16, VGG19, InceptionV3, InceptionResnetV2
+- Reseau GAN
+- Reseau Siamois
 
 ### Visualisation de données
 - Power BI

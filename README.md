@@ -23,7 +23,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - PHP
 - MariaDB
 
-### Api 
+### APIs
 - FastAPI
 - API Rest
 

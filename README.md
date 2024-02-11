@@ -22,10 +22,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 
 
 ### Développement logiciel
-- Git
-- Qt
-- Tkinter
-- Design patterns: MVC
+<img src="Git.png" alt="Git" width="100"/> <img src="Git.png" alt="Git" width="100"/> <img src="Qt.png" alt="Qt" width="100"/> <img src="tkinter.png" alt="tkinter" width="100"/> <img src=",vc.png" alt="mvc" width="100"/> 
   
 ### Traitement de données
 - Spark
@@ -35,7 +32,6 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - Talend
 - Cubes OLAP/ MOLAP/ ROLAP
 - Schémas clés : schéma en étoile , schéma en constellation, schéma en flocon
-- 
 
 ### Analyse de fichiers logs
 - ELK stack

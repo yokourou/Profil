@@ -10,7 +10,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 
 ### Programmation
 
-<img src="Python.png" alt="Python" width="50"/> <img src="cpp.png" alt="cpp" width="50"/> <img src="C.png" alt="C" width="50"/> <img src="Matlab.png" alt="Matlab" width="50"/> <img src="R.png" alt="R" width="50"/> <img src="Java.png" alt="Java" width="50"/> 
+<img src="Python.png" alt="Python" width="50"/>     <img src="cpp.png" alt="cpp" width="50"/>     <img src="C.png" alt="C" width="50"/>     <img src="Matlab.png" alt="Matlab" width="50"/>     <img src="R.png" alt="R" width="50"/>     <img src="Java.png" alt="Java" width="50"/> 
 
 
 

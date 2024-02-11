@@ -14,15 +14,14 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 
 
 ### Développement web
-- Django
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MariaDB
+ <img src="django.png" alt="django" width="50"/>  <img src="html_css.png" alt="html_css" width="50"/> 
+ <img src="JavaScript.png" alt="JavaScript" width="50"/> 
+
+ <img src="PHP.png" alt="PHP" width="50"/>  <img src="mariadb.png" alt="mariadb" width="50"/> 
 
 ### APIs
-<img src="fastapi.png" alt="fastapi" width="100"/> <img src="restapi.png" alt="restapi" width="100"/> 
+<img src="fastapi.png" alt="fastapi" width="100"/> 
+<img src="restapi.png" alt="restapi" width="100"/> 
 
 
 ### Développement logiciel

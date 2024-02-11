@@ -22,7 +22,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - MariaDB
 
 ### APIs
-- FastAPI
+<img src="fastapi.png" alt="fastapi" width="50"/> 
 - API Rest
 
 ### Développement logiciel

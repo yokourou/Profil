@@ -27,12 +27,14 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 ### Traitement de données
 <img src="spark.png" alt="spark" width="150" height ="80"/> 
 
-### ETL & BI
+### BI & visualisation de données
 - Talend
 - Cubes OLAP/ MOLAP/ ROLAP
 - Schémas clés : schéma en étoile , schéma en constellation, schéma en flocon
+- Power BI
+- Tableau
 
-### Analyse de fichiers logs
+### Analyse de fichiers logs - Monitoring 
 - ELK stack
 - Pormetheus
 - Grafana
@@ -54,9 +56,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - Reseau GAN
 - Reseau Siamois
 
-### Visualisation de données
-- Power BI
-- Tableau
+
 
 N'hésitez pas à explorer mes repositories pour découvrir mes projets et contributions. Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter (younesskourou5@gmail.com).
 

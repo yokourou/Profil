@@ -14,7 +14,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 
 
 ### Développement web
- <img src="html_css.png" alt="html_css" width="70"/> <img src="JavaScript.png" alt="JavaScript" width="50"/> <img src="django.png" alt="django" width="70"/> <img src="PHP.png" alt="PHP" width="50"/>  <img src="mariadb.png" alt="mariadb" width="50"/> 
+ <img src="html_css.png" alt="html_css" width="70"/> <img src="JavaScript.png" alt="JavaScript" width="40"/> <img src="django.png" alt="django" width="70"/> <img src="PHP.png" alt="PHP" width="50"/>  <img src="mariadb.png" alt="mariadb" width="50"/> 
 
 ### APIs
 <img src="fastapi.png" alt="fastapi" width="100"/> 

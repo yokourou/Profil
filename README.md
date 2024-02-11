@@ -25,7 +25,7 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 <img src="Git.png" alt="Git" width="100"/> <img src="Qt.png" alt="Qt" width="100"/> <img src="tkinter.png" alt="tkinter" width="100"/> <img src="mvc.png" alt="mvc" width="100"/> 
   
 ### Traitement de données
-<img src="spark.png" alt="spark" width="100"/> 
+<img src="spark.png" alt="spark" width="150" height ="80"/> 
 
 ### ETL & BI
 - Talend

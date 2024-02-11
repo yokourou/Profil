@@ -1,5 +1,7 @@
 # Profil
 
+![Profile views](https://komarev.com/ghpvc/?username=yokourou&color=blue)
+
 # Bienvenue sur mon profil GitHub ! 👋
 
 ## À propos de moi

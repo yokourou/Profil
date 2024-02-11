@@ -14,6 +14,8 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - R
 - Matlab
 - Java
+<img src="cpp.png" alt="Description de l'image 1" width="100"/> 
+
 
 ### Développement web
 - Django

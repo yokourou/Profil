@@ -14,7 +14,8 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - R
 - Matlab
 - Java
-![](cpp.png) ![](C.png)[](R.png)[](Python.png)[](Matlab.png)[](Java.png)
+<img src="Python.png" alt="Python" width="50"/> 
+
 
 
 ### Développement web

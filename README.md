@@ -14,7 +14,10 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 - R
 - Matlab
 - Java
-<img src="Python.png" alt="Python" width="50"/> 
+<img src="Python.png" alt="Python" width="50"/> <img src="cpp.png" alt="cpp" width="50"/> <img src="C.png" alt="C" width="50"/> <img src="Matlab.png" alt="Matlab" width="50"/> 
+
+
+
 
 
 

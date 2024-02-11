@@ -21,8 +21,8 @@ Je suis passionné par le développement logiciel, l'intelligence artificielle e
 <img src="restapi.png" alt="restapi" width="100"/> 
 
 
-### Développement logiciel
-<img src="Git.png" alt="Git" width="100"/> <img src="Git.png" alt="Git" width="100"/> <img src="Qt.png" alt="Qt" width="100"/> <img src="tkinter.png" alt="tkinter" width="100"/> <img src=",vc.png" alt="mvc" width="100"/> 
+### Développement logiciel Desktop
+<img src="Git.png" alt="Git" width="100"/> <img src="Qt.png" alt="Qt" width="100"/> <img src="tkinter.png" alt="tkinter" width="100"/> <img src="mvc.png" alt="mvc" width="100"/> 
   
 ### Traitement de données
 - Spark

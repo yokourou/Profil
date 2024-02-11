@@ -1,5 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yokourou&color=blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_utilisateur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Profil
 
 # Bienvenue sur mon profil GitHub ! 👋

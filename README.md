@@ -1,5 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokourou&layout=compact)](https://github.com/yokourou/github-readme-stats)
 
 # Profil  ![Profile views](https://komarev.com/ghpvc/?username=yokourou&color=blue)
 
